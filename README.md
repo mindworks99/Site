@@ -1,7 +1,7 @@
 # Tee Horner
 
 
-Welcome to my online portfolio.
+Welcome to my online Ui/Ux Design portfolio.
 
 ## Bugs & Workarounds
 
